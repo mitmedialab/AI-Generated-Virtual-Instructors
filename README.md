@@ -5,6 +5,53 @@ Repository for the paper AI-Generated Virtual Instructors Based on Liked or Admi
 **Supplementary material for the paper can be found in the ```Supplementary Material``` folder.**
 
 
+### Admiration
+Table 1
+Admiration (Adm) of the experiment groups and control, and the post-hoc-test (PT) score between the treatment and control group.
+
+
+
+<table>
+  <colgroup>
+    <col width="20" />
+    <col />
+    <col />
+    <col />
+    <col />
+    <col />
+    <col />
+    <col />
+  </colgroup>
+  <tbody>
+    <tr>
+      <td colspan="1">Task</td>
+      <td colspan="5">Treatment</td>
+      <td colspan="1">Control</td>
+      <td colspan="1">Other</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>Adm Grp. 1 (S.d)</td>
+      <td>Adm Grp. 2 (S.d)</td>
+      <td>Adm Grp. 3 (S.d)</td>
+      <td>Adm Grp. 4 (S.d)</td>
+      <td>Adm Grp. 5 (S.d)</td>
+      <td>Control (S.d)</td>
+      <td>post-hoc-test</td>
+    </tr>
+    <tr>
+      <td>Emotion</td>
+      <td>1.11</td>
+      <td>2.11</td>
+      <td>3.11**</td>
+      <td>4.11</td>
+      <td>5.11</td>
+      <td>6.11</td>
+      <td>7.11</td>
+    </tr>
+  </tbody>
+</table>
+
 
 ## Citation
 
