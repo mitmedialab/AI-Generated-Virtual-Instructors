@@ -52,6 +52,8 @@ Admiration (Adm) of the experiment groups and control, and the post-hoc-test (PT
   </tbody>
 </table>
 
+_Note. Bolded font indicates the rating of the target group. Asterisk (*) indicates score is significantly different (at p < .05) than the control group. Double asterisk (\**) indicates score is significantly different (at p < .01) than the control group in the same column_
+
 
 ## Citation
 
