@@ -37,31 +37,31 @@ Table 1.1: Mean quiz scores with standard deviation (S.d) for the Degree of Liki
     </tr>
     <tr>
       <td>Like Grp. 1</td>
-      <td>1.11</td>
-      <td>2.11</td>
-      <td>3.11**</td>
-      <td>4.11</td>
+      <td>12.9 (5.7) // 12.9 (5.7)</td>
+      <td>12.9 (5.7) // 13.0 (6.8)</td>
+      <td>12.9 (5.7) // 13.9 (5.6)</td>
+      <td>12.9 (5.7) // 12.9 (6.7)</td>
     </tr>
     <tr>
       <td>Like Grp. 2</td>
-      <td>1.11</td>
-      <td>2.11</td>
-      <td>3.11**</td>
-      <td>4.11</td>
+      <td>13.0 (6.8) // 12.9 (5.7)</td>
+      <td>13.0 (6.8) // 13.0 (6.8)</td>
+      <td>13.0 (6.8) // 3.9 (5.6)</td>
+      <td>13.0 (6.8) // 12.9 (6.7)</td>
     </tr>
     <tr>
       <td>Like Grp. 3</td>
-      <td>1.11</td>
-      <td>2.11</td>
-      <td>3.11**</td>
-      <td>4.11</td>
+      <td>3.9 (5.6) // 12.9 (5.7)</td>
+      <td>3.9 (5.6) // 13.0 (6.8)</td>
+      <td>3.9 (5.6) // 3.9 (5.6)</td>
+      <td>3.9 (5.6) // 12.9 (6.7)</td>
     </tr>
     <tr>
       <td>Like Control</td>
-      <td>1.11</td>
-      <td>2.11</td>
-      <td>3.11**</td>
-      <td>4.11</td>
+      <td>12.9 (6.7) // 12.9 (5.7)</td>
+      <td>12.9 (6.7) // 13.0 (6.8)</td>
+      <td>12.9 (6.7) // 3.9 (5.6)</td>
+      <td>12.9 (6.7) // 12.9 (6.7)</td>
     </tr>
   </tbody>
 </table>
@@ -225,6 +225,13 @@ Table 1.1: Mean quiz scores with standard deviation (S.d) for the Degree of Liki
   </tbody>
 </table>
 
+
+_Note: Asterisk (\*) indicates score is significantly different (at p < .05) than the control group. Double asterisk (\*\*) indicates score is significantly different (at p < .01) than the control group._
+
+
+Table 1.2: Mean quiz scores with standard deviation (S.d) for the Degree of Admiration (Adm) groups of the experimental group and control. Since significance are found with a One-way ANOVA test, P-values are calculated with a Tukey post-hoc test.
+
+
 <table>
   <colgroup>
     <col width="20" />
@@ -240,6 +247,478 @@ Table 1.1: Mean quiz scores with standard deviation (S.d) for the Degree of Liki
   <tbody>
     <tr>
       <td colspan="7">L1 - Degree of Admiration</td>
+    </tr>
+    <tr>
+      <td colspan="1">Task</td>
+      <td colspan="5">Treatment</td>
+      <td colspan="1">Control</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>Adm Grp. 1 (S.d)</td>
+      <td>Adm Grp. 2 (S.d)</td>
+      <td>Adm Grp. 3 (S.d)</td>
+      <td>Adm Grp. 4 (S.d)</td>
+      <td>Adm Grp. 5 (S.d)</td>
+      <td>Adm Control (S.d)</td>
+    </tr>
+    <tr>
+      <td>Adm Grp. 1</td>
+      <td>1.11</td>
+      <td>2.11</td>
+      <td>3.11**</td>
+      <td>4.11</td>
+      <td>3.11**</td>
+      <td>4.11</td>
+    </tr>
+    <tr>
+      <td>Adm Grp. 2</td>
+      <td>1.11</td>
+      <td>2.11</td>
+      <td>3.11**</td>
+      <td>4.11</td>
+      <td>3.11**</td>
+      <td>4.11</td>
+    </tr>
+    <tr>
+      <td>Adm Grp. 3</td>
+      <td>1.11</td>
+      <td>2.11</td>
+      <td>3.11**</td>
+      <td>4.11</td>
+      <td>3.11**</td>
+      <td>4.11</td>
+    </tr>
+    <tr>
+      <td>Adm Grp. 4</td>
+      <td>1.11</td>
+      <td>2.11</td>
+      <td>3.11**</td>
+      <td>4.11</td>
+      <td>3.11**</td>
+      <td>4.11</td>
+    </tr>
+    <tr>
+      <td>Adm Grp. 5</td>
+      <td>1.11</td>
+      <td>2.11</td>
+      <td>3.11**</td>
+      <td>4.11</td>
+      <td>3.11**</td>
+      <td>4.11</td>
+    </tr>
+    <tr>
+      <td>Adm Control</td>
+      <td>1.11</td>
+      <td>2.11</td>
+      <td>3.11**</td>
+      <td>4.11</td>
+      <td>3.11**</td>
+      <td>4.11</td>
+    </tr>
+  </tbody>
+</table>
+
+
+### L3 = "I put in a lot of effort to understand the information in the lesson."
+
+Table 1.1: Mean quiz scores with standard deviation (S.d) for the Degree of Liking (Like) of the experimental group and control. Since the Assumption of Equal Variances was met, p-values are calculated with a basic ANOVA test and no significance was found.
+
+
+<table>
+  <colgroup>
+    <col width="20" />
+    <col />
+    <col />
+    <col />
+    <col />
+    <col />
+
+  </colgroup>
+  <tbody>
+    <tr>
+      <td colspan="5">L3 - Degree of Liking</td>
+    </tr>
+    <tr>
+      <td colspan="1">Task</td>
+      <td colspan="3">Treatment</td>
+      <td colspan="1">Control</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>Like Grp. 1 (S.d)</td>
+      <td>Like Grp. 2 (S.d)</td>
+      <td>Like Grp. 3 (S.d)</td>
+      <td>Like Control (S.d)</td>
+    </tr>
+    <tr>
+      <td>Like Grp. 1</td>
+      <td>1.11</td>
+      <td>2.11</td>
+      <td>3.11**</td>
+      <td>4.11</td>
+    </tr>
+    <tr>
+      <td>Like Grp. 2</td>
+      <td>1.11</td>
+      <td>2.11</td>
+      <td>3.11**</td>
+      <td>4.11</td>
+    </tr>
+    <tr>
+      <td>Like Grp. 3</td>
+      <td>1.11</td>
+      <td>2.11</td>
+      <td>3.11**</td>
+      <td>4.11</td>
+    </tr>
+    <tr>
+      <td>Like Control</td>
+      <td>1.11</td>
+      <td>2.11</td>
+      <td>3.11**</td>
+      <td>4.11</td>
+    </tr>
+  </tbody>
+</table>
+
+
+_Note: Asterisk (\*) indicates score is significantly different (at p < .05) than the control group. Double asterisk (\*\*) indicates score is significantly different (at p < .01) than the control group._
+
+
+Table 1.2: Mean quiz scores with standard deviation (S.d) for the Degree of Admiration (Adm) groups of the experimental group and control. Since significance are found with a One-way ANOVA test, P-values are calculated with a Tukey post-hoc test.
+
+
+<table>
+  <colgroup>
+    <col width="20" />
+    <col />
+    <col />
+    <col />
+    <col />
+    <col />
+    <col />
+    <col />
+
+  </colgroup>
+  <tbody>
+    <tr>
+      <td colspan="7">L3 - Degree of Admiration</td>
+    </tr>
+    <tr>
+      <td colspan="1">Task</td>
+      <td colspan="5">Treatment</td>
+      <td colspan="1">Control</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>Adm Grp. 1 (S.d)</td>
+      <td>Adm Grp. 2 (S.d)</td>
+      <td>Adm Grp. 3 (S.d)</td>
+      <td>Adm Grp. 4 (S.d)</td>
+      <td>Adm Grp. 5 (S.d)</td>
+      <td>Adm Control (S.d)</td>
+    </tr>
+    <tr>
+      <td>Adm Grp. 1</td>
+      <td>1.11</td>
+      <td>2.11</td>
+      <td>3.11**</td>
+      <td>4.11</td>
+      <td>3.11**</td>
+      <td>4.11</td>
+    </tr>
+    <tr>
+      <td>Adm Grp. 2</td>
+      <td>1.11</td>
+      <td>2.11</td>
+      <td>3.11**</td>
+      <td>4.11</td>
+      <td>3.11**</td>
+      <td>4.11</td>
+    </tr>
+    <tr>
+      <td>Adm Grp. 3</td>
+      <td>1.11</td>
+      <td>2.11</td>
+      <td>3.11**</td>
+      <td>4.11</td>
+      <td>3.11**</td>
+      <td>4.11</td>
+    </tr>
+    <tr>
+      <td>Adm Grp. 4</td>
+      <td>1.11</td>
+      <td>2.11</td>
+      <td>3.11**</td>
+      <td>4.11</td>
+      <td>3.11**</td>
+      <td>4.11</td>
+    </tr>
+    <tr>
+      <td>Adm Grp. 5</td>
+      <td>1.11</td>
+      <td>2.11</td>
+      <td>3.11**</td>
+      <td>4.11</td>
+      <td>3.11**</td>
+      <td>4.11</td>
+    </tr>
+    <tr>
+      <td>Adm Control</td>
+      <td>1.11</td>
+      <td>2.11</td>
+      <td>3.11**</td>
+      <td>4.11</td>
+      <td>3.11**</td>
+      <td>4.11</td>
+    </tr>
+  </tbody>
+</table>
+
+
+### L5 = "I would like more lessons like this one".
+
+Table 1.1: Mean quiz scores with standard deviation (S.d) for the Degree of Liking (Like) of the experimental group and control. Since the Assumption of Equal Variances was met, p-values are calculated with a basic ANOVA test and no significance was found.
+
+
+<table>
+  <colgroup>
+    <col width="20" />
+    <col />
+    <col />
+    <col />
+    <col />
+    <col />
+
+  </colgroup>
+  <tbody>
+    <tr>
+      <td colspan="5">L5 - Degree of Liking</td>
+    </tr>
+    <tr>
+      <td colspan="1">Task</td>
+      <td colspan="3">Treatment</td>
+      <td colspan="1">Control</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>Like Grp. 1 (S.d)</td>
+      <td>Like Grp. 2 (S.d)</td>
+      <td>Like Grp. 3 (S.d)</td>
+      <td>Like Control (S.d)</td>
+    </tr>
+    <tr>
+      <td>Like Grp. 1</td>
+      <td>1.11</td>
+      <td>2.11</td>
+      <td>3.11**</td>
+      <td>4.11</td>
+    </tr>
+    <tr>
+      <td>Like Grp. 2</td>
+      <td>1.11</td>
+      <td>2.11</td>
+      <td>3.11**</td>
+      <td>4.11</td>
+    </tr>
+    <tr>
+      <td>Like Grp. 3</td>
+      <td>1.11</td>
+      <td>2.11</td>
+      <td>3.11**</td>
+      <td>4.11</td>
+    </tr>
+    <tr>
+      <td>Like Control</td>
+      <td>1.11</td>
+      <td>2.11</td>
+      <td>3.11**</td>
+      <td>4.11</td>
+    </tr>
+  </tbody>
+</table>
+
+
+_Note: Asterisk (\*) indicates score is significantly different (at p < .05) than the control group. Double asterisk (\*\*) indicates score is significantly different (at p < .01) than the control group._
+
+
+Table 1.2: Mean quiz scores with standard deviation (S.d) for the Degree of Admiration (Adm) groups of the experimental group and control. Since significance are found with a One-way ANOVA test, P-values are calculated with a Tukey post-hoc test.
+
+
+<table>
+  <colgroup>
+    <col width="20" />
+    <col />
+    <col />
+    <col />
+    <col />
+    <col />
+    <col />
+    <col />
+
+  </colgroup>
+  <tbody>
+    <tr>
+      <td colspan="7">L5 - Degree of Admiration</td>
+    </tr>
+    <tr>
+      <td colspan="1">Task</td>
+      <td colspan="5">Treatment</td>
+      <td colspan="1">Control</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>Adm Grp. 1 (S.d)</td>
+      <td>Adm Grp. 2 (S.d)</td>
+      <td>Adm Grp. 3 (S.d)</td>
+      <td>Adm Grp. 4 (S.d)</td>
+      <td>Adm Grp. 5 (S.d)</td>
+      <td>Adm Control (S.d)</td>
+    </tr>
+    <tr>
+      <td>Adm Grp. 1</td>
+      <td>1.11</td>
+      <td>2.11</td>
+      <td>3.11**</td>
+      <td>4.11</td>
+      <td>3.11**</td>
+      <td>4.11</td>
+    </tr>
+    <tr>
+      <td>Adm Grp. 2</td>
+      <td>1.11</td>
+      <td>2.11</td>
+      <td>3.11**</td>
+      <td>4.11</td>
+      <td>3.11**</td>
+      <td>4.11</td>
+    </tr>
+    <tr>
+      <td>Adm Grp. 3</td>
+      <td>1.11</td>
+      <td>2.11</td>
+      <td>3.11**</td>
+      <td>4.11</td>
+      <td>3.11**</td>
+      <td>4.11</td>
+    </tr>
+    <tr>
+      <td>Adm Grp. 4</td>
+      <td>1.11</td>
+      <td>2.11</td>
+      <td>3.11**</td>
+      <td>4.11</td>
+      <td>3.11**</td>
+      <td>4.11</td>
+    </tr>
+    <tr>
+      <td>Adm Grp. 5</td>
+      <td>1.11</td>
+      <td>2.11</td>
+      <td>3.11**</td>
+      <td>4.11</td>
+      <td>3.11**</td>
+      <td>4.11</td>
+    </tr>
+    <tr>
+      <td>Adm Control</td>
+      <td>1.11</td>
+      <td>2.11</td>
+      <td>3.11**</td>
+      <td>4.11</td>
+      <td>3.11**</td>
+      <td>4.11</td>
+    </tr>
+  </tbody>
+</table>
+
+
+### L6 = "I would like to learn more advanced material from this instructor."
+
+
+Table 1.1: Mean quiz scores with standard deviation (S.d) for the Degree of Liking (Like) of the experimental group and control. Since the Assumption of Equal Variances was met, p-values are calculated with a basic ANOVA test and no significance was found.
+
+
+<table>
+  <colgroup>
+    <col width="20" />
+    <col />
+    <col />
+    <col />
+    <col />
+    <col />
+
+  </colgroup>
+  <tbody>
+    <tr>
+      <td colspan="5">L5 - Degree of Liking</td>
+    </tr>
+    <tr>
+      <td colspan="1">Task</td>
+      <td colspan="3">Treatment</td>
+      <td colspan="1">Control</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>Like Grp. 1 (S.d)</td>
+      <td>Like Grp. 2 (S.d)</td>
+      <td>Like Grp. 3 (S.d)</td>
+      <td>Like Control (S.d)</td>
+    </tr>
+    <tr>
+      <td>Like Grp. 1</td>
+      <td>1.11</td>
+      <td>2.11</td>
+      <td>3.11**</td>
+      <td>4.11</td>
+    </tr>
+    <tr>
+      <td>Like Grp. 2</td>
+      <td>1.11</td>
+      <td>2.11</td>
+      <td>3.11**</td>
+      <td>4.11</td>
+    </tr>
+    <tr>
+      <td>Like Grp. 3</td>
+      <td>1.11</td>
+      <td>2.11</td>
+      <td>3.11**</td>
+      <td>4.11</td>
+    </tr>
+    <tr>
+      <td>Like Control</td>
+      <td>1.11</td>
+      <td>2.11</td>
+      <td>3.11**</td>
+      <td>4.11</td>
+    </tr>
+  </tbody>
+</table>
+
+
+_Note: Asterisk (\*) indicates score is significantly different (at p < .05) than the control group. Double asterisk (\*\*) indicates score is significantly different (at p < .01) than the control group._
+
+
+Table 1.2: Mean quiz scores with standard deviation (S.d) for the Degree of Admiration (Adm) groups of the experimental group and control. Since significance are found with a One-way ANOVA test, P-values are calculated with a Tukey post-hoc test.
+
+
+<table>
+  <colgroup>
+    <col width="20" />
+    <col />
+    <col />
+    <col />
+    <col />
+    <col />
+    <col />
+    <col />
+
+  </colgroup>
+  <tbody>
+    <tr>
+      <td colspan="7">L5 - Degree of Admiration</td>
     </tr>
     <tr>
       <td colspan="1">Task</td>
